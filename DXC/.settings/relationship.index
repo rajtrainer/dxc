@@ -52,10 +52,6 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_OHWWkDKfEemONKMfd10ZxQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "DataOperation",
     "version" : "Latest",
     "type" : "routine"
